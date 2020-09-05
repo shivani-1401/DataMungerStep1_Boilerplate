@@ -8,6 +8,8 @@
 *.war
 *.ear
 *.idea
+*.iml
+*.project
 
 target/
 
